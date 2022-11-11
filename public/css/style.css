@@ -1,0 +1,161 @@
+
+body{
+    background-color: rgba(238, 132, 56, 0.06) !important;
+    overflow-x: hidden;
+}
+
+.myFont{
+    font-family: Lalezar;
+
+}
+
+.nav_shadow{
+    box-shadow: none;!important;
+}
+
+
+#brand{
+ font-family: Lalezar;
+    color: #EE384E;
+}
+
+.searchbar{
+    background-color: #F0F0F1;!important;
+}
+
+.searchDiv{
+
+    background-color: #F0F0F1;!important;
+    width: 100%;
+    height: 54px;
+
+}
+
+.searchIn{
+    background-color: #F0F0F1;!important;
+    width: 100%;
+    height: 48px;
+}
+
+.searchIn:focus{
+    outline: none !important;
+
+}
+
+.topBtn{
+    font-size: 16px!important;
+    color: #EE384E !important;
+
+}
+
+
+.myA{
+    text-decoration: none!important;
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.myA:hover{
+    transform: scale(0.1) !important;
+    color: black;
+
+}
+
+.settingUlnav{
+
+   margin-bottom: 0px!important;
+    height: 10% !important;
+}
+
+.settingUlnav h5{
+    color: rgba(0, 0, 0, 0.49) !important;
+
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: rgba(0, 0, 0, 0.49) !important;
+    border-color: #EE384E;
+}
+
+.sliderDiv{
+
+    height: 50%!important;
+
+}
+
+.circleHome{
+    width: 100%;
+}
+
+.myHiddenCard {
+    background-color: transparent
+}
+
+.card-body{
+    padding-top: 0px!important;
+}
+
+.card_t{
+
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.55);
+margin-top: 5px!important;
+}
+
+.card_text_margin{
+    margin-top: 6px!important;
+}
+
+.address_item{
+    padding: 16px!important;
+}
+.card_color{
+
+    background-color: white;!important;
+}
+
+.col_padding{
+    padding: 0px;!important;
+}
+
+.margin_item_desc{
+    margin-left: 5px;
+}
+
+.desc_item{
+    padding-right: 100px;
+}
+.red_brand{
+    color: #EE384E;
+}
+
+.checked {
+    color: orange;
+}
+
+.border-under-image{
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.62);
+    border-style: solid;
+}
+
+.physics-desc{
+
+    background-color: rgba(234, 229, 229, 0.47);
+    color: rgba(86, 94, 108, 0.63);
+    margin-left: 5px;
+    margin-right: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    box-shadow: none;
+
+}
+
+
+.ul-color-margin{
+
+    margin-bottom: 7px!important;
+margin-right: 5px;
+    background-color: rgba(255, 255, 255, 0.44) !Important;
+}
